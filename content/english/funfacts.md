@@ -3,7 +3,7 @@ title: ""
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
-- name : "HANDS TO WORK"
+- name : "Essays written"
   image : "images/icons/works.png"
   count : "100"
   
@@ -13,7 +13,7 @@ funfacts:
   count : "200"
   
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "Cases over coffee"
   image : "images/icons/project.png"
   count : "250"
   

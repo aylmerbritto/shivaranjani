@@ -26,7 +26,25 @@ experience:
       • Worked on creating the block design implemented using Xilinx Vivado <br>
       • Designed the LwIP Echo Server application in SDK for Ethernet interfacing <br>
       • Used Hercules Setup Utility tool, Telnet and MATLAB for data transfer" 
-      
+
+experience:
+  enable : true
+  title : "Clus"
+  experience_list:
+    # experience item loop
+    - name : "GET | Intelligent Solutions Group"
+      company : "John Deere"
+      duration : "Aug 2020 - Present"
+      content : "Build cool Tractors :)"
+
+    - name : "Research Intern"
+      company : "IISC"
+      duration : "May 2019 - Jul 2019"
+      content : "Ethernet Interfacing for Zynq Ultrascale+ (ZCU102 ES2) [ ISRO Project ] <br>
+      <b>Areas of work: FPGA, Networks <br></b>
+      • Worked on creating the block design implemented using Xilinx Vivado <br>
+      • Designed the LwIP Echo Server application in SDK for Ethernet interfacing <br>
+      • Used Hercules Setup Utility tool, Telnet and MATLAB for data transfer" 
 
 ############################### Skill #################################
 skill:

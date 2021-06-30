@@ -1,5 +1,5 @@
 ---
-title: "Project Title"
+title: "VP, John Deere Toastmasters Club 2.0"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item1.jpg"
 categories: ["design","development"]
