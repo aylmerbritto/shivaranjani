@@ -3,7 +3,7 @@ title: "This Is A Simple Blog Post"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item2.jpg"
 tags: ["design","art"]
-description: "This is meta description."
+description: "Happy Birthday Girl."
 draft: false
 ---
 
