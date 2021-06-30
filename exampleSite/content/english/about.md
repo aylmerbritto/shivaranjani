@@ -13,22 +13,20 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "GET | Intelligent Solutions Group"
+      company : "John Deere"
+      duration : "Aug 2020 - Present"
+      content : "Build cool Tractors :)"
+
+    - name : "Research Intern"
+      company : "IISC"
+      duration : "May 2019 - Jul 2019"
+      content : "Ethernet Interfacing for Zynq Ultrascale+ (ZCU102 ES2) [ ISRO Project ] <br>
+      <b>Areas of work: FPGA, Networks <br></b>
+      • Worked on creating the block design implemented using Xilinx Vivado <br>
+      • Designed the LwIP Echo Server application in SDK for Ethernet interfacing <br>
+      • Used Hercules Setup Utility tool, Telnet and MATLAB for data transfer" 
       
-    # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 ############################### Skill #################################
 skill:
@@ -36,20 +34,13 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "Content Writing"
       percentage : "98%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Business Strategy"
       percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+
 
 
 # custom style
@@ -58,4 +49,20 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Driven by the idea that being truly passionate about your work motivates you to give your best.
+
+Hi, I'm an Electronics engineer who is also enthused by varied domains such as
+- Management Consulting
+- Embedded Systems/IoT
+- Businesses/Startups
+- Ed-Tech space
+- Product Management
+- Space Sciences
+
+I developed interests across these domains, growing up in different countries with diverse cultures, which eventually led me to meet amazing people from all walks of life! I love reading about anything related to these domains! And occasionally, I also write about my perspectives and favorite reads on LinkedIn.
+
+I've worked with multiple clients and early-stage startups on content writing, strategy & marketing, and business strategy, and have gained experience in the same too! I strive to maintain and challenge the status quo.
+
+At other times, I enjoy binge-reading articles, playing badminton, obsessing over photography, playing the ukulele, or endlessly sharing my adventures at the Kenyan safari!
+
+Feel free to connect if we share similar interests! :)

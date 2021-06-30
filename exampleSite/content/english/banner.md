@@ -1,14 +1,16 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Shivaranjani S"
 # full screen navigation
 first_name : "MacGyver"
 last_name : "SOMRAT"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "#writing"
+- "#business"
+- "#strategy"
+- "#students"
+- "#productmanagement"
 
 # slider background image loop
 slider_images:
