@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 title = "Somrat | Hugo Portfolio Template"
-theme = "somrat"
+theme = "shivaranjani"
 # post pagination
 paginate = "6"
 # post excerpt
